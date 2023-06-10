@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745751221235",
+    "firebase_url": "https://homework4-abcae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "homework4-abcae",
+    "storage_bucket": "homework4-abcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745751221235:android:264586ec41ca9b74de7886",
+        "android_client_info": {
+          "package_name": "com.example.homework4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745751221235-idlvhpn7cmd2i5auafgt2co9stpjuejt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqK8BOl4AjpZftB4_7c1wX72wSXhF9lWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745751221235-idlvhpn7cmd2i5auafgt2co9stpjuejt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
